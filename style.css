@@ -339,10 +339,10 @@ transform: translateY(-50%);
 .footer-bottom-right{
         display:inline-flex;
 }
-.footer-bottom-right:hover .footer-bottom-right-icon{
+.footer-bottom-right-icon:hover{
 background-color: #F16D7F;
 }
-.footer-bottom-right:hover img{
+.footer-bottom-right-icon:hover img{
     filter: brightness(0) invert(1);
 }
 .socset{
